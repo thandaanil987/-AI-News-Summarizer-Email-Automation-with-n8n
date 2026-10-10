@@ -12,7 +12,7 @@ This is also a hands-on learning project to explore how workflow automation and 
 
 **Schedule Trigger → RSS Read → Limit → Aggregate → Basic LLM Chain (Google Gemini Chat Model) → Gmail**
 
-![n8n AI News Automation Workflow](screenshots/workflow.png)
+![n8n AI News Automation Workflow](screenshotsworkflow.png)
 
 > Add your n8n workflow screenshot at `screenshots/workflow.png`, or update the image path above to match the filename you use.
 
