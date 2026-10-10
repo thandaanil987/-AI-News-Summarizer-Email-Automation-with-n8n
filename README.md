@@ -113,7 +113,7 @@ This workflow is a **news collection and summarization project**. It does not it
 I'm building hands-on projects to grow my skills in **Data Analytics, AI, and Automation**. This is my first n8n automation project, and I plan to keep learning by building and sharing practical projects.
 
 - **LinkedIn:** [Thanda Anil Kumar](https://www.linkedin.com/in/thanda-anil-kumar-5817172a5/)
-- **GitHub:** Add your GitHub profile link here.
+- **GitHub:** [Thanda Anil Kumar](https://github.com/thandaanil987)
 
 ## ⭐ Feedback
 
